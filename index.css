@@ -1,0 +1,29 @@
+body {
+    color: aliceblue;
+    font-size: 125%;
+
+}
+
+img {
+    width: 23%;
+    position: static;
+    border:2px dotted black;
+    
+
+}
+
+h2 {
+    text-align: center;
+    -webkit-text-stroke: black 0.5px
+}
+h1 {
+    text-align: center;
+    
+
+}
+
+div {
+    background-color: rgb(32, 57, 110);
+    
+
+}
